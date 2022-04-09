@@ -46,3 +46,20 @@ En küçükler arasında karşılaştırılır.
 (8,11,12,16,21,22)
 
 Big-O gösterimi : O(n.logn)
+
+
+
+# Binary Search Tree Projesi
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+root =5 olarak belirlenmiştir. Solda root dan küçükler, sağda root dan büyükler bulunur.
+
+                                5
+                            /      \ 
+                          4          6
+                         /  \      /   \
+                        2    3    7     8
+                       / \             /
+                      0   1           9
+                      
